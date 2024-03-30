@@ -1,0 +1,33 @@
+{
+  "name": "codedevgenius",
+  "version": "1.0.2",
+  "description": "codedevgenius",
+  "type": "module",
+  "main": "codedevgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brumfieldsabax0/codedevgenius"
+  },
+  "website": "https://github.com/brumfieldsabax0/codedevgenius.git",
+  "keywords": [
+    "codedevgenius"
+  ],
+  "author": "brumfieldsabax0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brumfieldsabax0/codedevgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/brumfieldsabax0/codedevgenius#readme",
+  "dependencies": {
+    "programscriptsavvy": "1.0.2",
+    "devcodecraft": "1.0.2",
+    "programscripter": "1.0.2"
+  }
+}
